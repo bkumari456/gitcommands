@@ -13,8 +13,6 @@ public class DemoApplicationTests {
 	public void contextLoads() {
 	}
 
-	public void m(){
-	   
-	}
+	
 }
 
